@@ -1,6 +1,7 @@
-### Summer School Vagrant Box ###
+Summer School Vagrant Box
+=========================
 
 2017
-====
+----
 
 
